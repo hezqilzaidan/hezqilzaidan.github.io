@@ -1,1 +1,77 @@
+############## Education config #################
+#################################################
+#[[education]]
+#title = "High school of art and design"
+#timeline = "2002 — 2004"
+#description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+
+[[education]]
+title = "Ahmad Dahlan University"
+timeline = "2019 — 2023"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+
+[[education]]
+title = "SMK Yadika 6 Bekasi"
+title = "Computer Network Engineering"
+timeline = "2016 — 2019"
+description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+
+
+############## Experience config ################
+#################################################
+[[experience]]
+title = "Curicculum Developer at Leix Code"
+timeline = "July 2024 - Present"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+
+[[experience]]
+title = "Front-end Dev at RCC"
+timeline = "Januari 2024 — Present"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+
+[[experience]]
+title = "Beckend Dev at PT. Pupuk Sriwidjaja Palembang"
+timeline = "2015 — Present"
+description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Web design"
+value = "80%"
+
+[[skill]]
+title = "Graphic design"
+value = "80%"
+
+[[skill]]
+title = "Branding"
+value = "90%"
+
+[[skill]]
+title = "WordPress"
+value = "80%"
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = true
+show_value = true
+
+[[language]]
+title = "Indonesia"
+value = "100%"
+
+[[language]]
+title = "English"
+value = "75%"
 
